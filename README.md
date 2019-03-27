@@ -24,7 +24,7 @@ C) _Click _Tell me my destination!_ button to learn about your destination_<br>
 
 ## View on GitHub Pages
 
-[Peter's Vacation Selector Site](https://pitaangusa.github.io/vacation-suggester/)
+[Peter's Vacation Selector Site](https://https://pitaangusa.github.io/Vacation-Queries/)
 
 ## License
 
